@@ -60,6 +60,9 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1, Camara de Diputados | CL
 #EXTVLCOPT:network-caching=1000
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, 3AB Latino
+#EXTVLCOPT:network-caching=1000
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1, Golden plus
 #EXTVLCOPT:network-caching=1000
 http://177.234.249.135:8888/GoldenPlus/index.m3u8
