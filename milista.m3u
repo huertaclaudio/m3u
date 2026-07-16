@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, TVN
+#EXTVLCOPT:network-caching=1000
+http://45.162.193.35/TVN/index.m3u8
 #EXTINF:-1, TVMAS
 #EXTVLCOPT:network-caching=1000
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
