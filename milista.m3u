@@ -3,6 +3,12 @@
 #EXTINF:-1, TVN
 #EXTVLCOPT:network-caching=1000
 http://45.162.193.35/TVN/index.m3u8
+#EXTINF:-1, TVN3
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1, LA RED
+#EXTVLCOPT:network-caching=1000
+http://45.162.193.35/LA_RED/index.m3u8
 #EXTINF:-1, TVMAS
 #EXTVLCOPT:network-caching=1000
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
@@ -12,6 +18,9 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1, Canal 13
 #EXTVLCOPT:network-caching=1000
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Tele 13 en vivo
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1, Mega
 #EXTVLCOPT:network-caching=1000
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
@@ -39,6 +48,9 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?
 #EXTINF:-1, USACH
 #EXTVLCOPT:network-caching=1000
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
+#EXTINF:-1, TURNO
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1, Bio Bio TV
 #EXTVLCOPT:network-caching=1000
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
