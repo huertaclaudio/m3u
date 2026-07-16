@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, Megatiempo
-#EXTVLCOPT:network-caching=1000
-https://iptv-org.github.io/channels/cl/Megatiempo#SD
 #EXTINF:-1, TVN
 #EXTVLCOPT:network-caching=1000
 http://45.162.193.35/TVN/index.m3u8
@@ -117,9 +114,6 @@ http://181.119.93.83:8000/play/a1di/index.m3u8
 #EXTINF:-1, DreamWorks
 #EXTVLCOPT:network-caching=1000
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:-1, NatGeo
-#EXTVLCOPT:network-caching=1000
-http://177.234.249.178:8888/NATGEO/index.m3u8
 #EXTINF:-1, NatGeo
 #EXTVLCOPT:network-caching=1000
 http://45.162.193.35/NATGEO/index.m3u8
