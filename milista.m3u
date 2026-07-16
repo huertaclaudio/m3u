@@ -60,24 +60,69 @@ https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f
 #EXTINF:-1, ADN
 #EXTVLCOPT:network-caching=1000
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, Camara de Diputados | CL
-#EXTVLCOPT:network-caching=1000
-https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, America TV chile
 #EXTVLCOPT:network-caching=1000
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1, Golden plus
+#EXTINF:-1, Chile visual
 #EXTVLCOPT:network-caching=1000
-http://177.234.249.135:8888/GoldenPlus/index.m3u8
-#EXTINF:-1, Golden
+https://paneltv.stream:19360/chilevisual/chilevisual.m3u8?PlaylistM3UCL
+#EXTINF:-1, Canal del sur
 #EXTVLCOPT:network-caching=1000
-http://177.234.249.135:8888/Golden/index.m3u8
+https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Camara de Diputados | CL
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, RT ESP
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1, DW Español
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1, Palestina
+#EXTVLCOPT:network-caching=1000
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1, Hispan TV
+#EXTVLCOPT:network-caching=1000
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:-1, AlbKanale Music TV
+#EXTVLCOPT:network-caching=1000
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1, STAR_CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.162.193.35/STAR_CHANNEL/index.m3u8
+#EXTINF:-1, STUDIO-UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1, UNIVERSAL-CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1, AXN
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1, FX
 #EXTVLCOPT:network-caching=1000
 http://45.162.193.35/FX/index.m3u8
-#EXTINF:-1, Cine Sony
+#EXTINF:-1, Disney
 #EXTVLCOPT:network-caching=1000
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1, History
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1, A&E
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1, Comedy central
+#EXTVLCOPT:network-caching=1000
+http://181.119.93.83:8000/play/a1di/index.m3u8
+#EXTINF:-1, DreamWorks
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+#EXTINF:-1, NatGeo
+#EXTVLCOPT:network-caching=1000
+http://177.234.249.178:8888/NATGEO/index.m3u8
+#EXTINF:-1, NatGeo
+#EXTVLCOPT:network-caching=1000
+http://45.162.193.35/NATGEO/index.m3u8
 #EXTINF:-1, Cine Premium
 #EXTVLCOPT:network-caching=1000
 http://190.61.90.17:40000/play/a02i/index.m3u8
@@ -90,24 +135,18 @@ https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 #EXTINF:-1, Cine 35mm
 #EXTVLCOPT:network-caching=1000
 https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
-#EXTINF:-1, A&E
-#EXTVLCOPT:network-caching=1000
-http://138.121.15.230:9002/A&E/index.m3u8
-#EXTINF:-1, Comedy central
-#EXTVLCOPT:network-caching=1000
-http://181.119.93.83:8000/play/a1di/index.m3u8
-#EXTINF:-1, DreamWorks
-#EXTVLCOPT:network-caching=1000
-http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:-1, America's Got Talent
-#EXTVLCOPT:network-caching=1000
-https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
-#EXTINF:-1, America's Got Talent 2
-#EXTVLCOPT:network-caching=1000
-https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
 #EXTINF:-1, Cine accion
 #EXTVLCOPT:network-caching=1000
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1, Golden plus
+#EXTVLCOPT:network-caching=1000
+http://177.234.249.135:8888/GoldenPlus/index.m3u8
+#EXTINF:-1, Golden
+#EXTVLCOPT:network-caching=1000
+http://177.234.249.135:8888/Golden/index.m3u8
+#EXTINF:-1, Cine Sony
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1, Rakuten TV ScyFy
 #EXTVLCOPT:network-caching=1000
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
@@ -123,21 +162,12 @@ https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1, Cine Friki
 #EXTVLCOPT:network-caching=1000
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-#EXTINF:-1, NatGeo
-#EXTVLCOPT:network-caching=1000
-http://177.234.249.178:8888/NATGEO/index.m3u8
-#EXTINF:-1, NatGeo
-#EXTVLCOPT:network-caching=1000
-http://45.162.193.35/NATGEO/index.m3u8
 #EXTINF:-1, FMH movies
 #EXTVLCOPT:network-caching=1000
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 #EXTINF:-1, Cine
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
-#EXTINF:-1, DW Español
-#EXTVLCOPT:network-caching=1000
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1, LATINX
 #EXTVLCOPT:network-caching=1000
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
@@ -150,41 +180,21 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1, Adrenalina pura TV
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1, AlbKanale Music TV
-#EXTVLCOPT:network-caching=1000
-https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1, Cine ventuda
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
 #EXTINF:-1, Universal monster
 #EXTVLCOPT:network-caching=1000
 https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1, Palestina
-#EXTVLCOPT:network-caching=1000
-https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1, Hispan TV
-#EXTVLCOPT:network-caching=1000
-https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1, TRL Best
 #EXTVLCOPT:network-caching=1000
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
-#EXTINF:-1, Chile visual
-#EXTVLCOPT:network-caching=1000
-https://paneltv.stream:19360/chilevisual/chilevisual.m3u8?PlaylistM3UCL
-#EXTINF:-1, Canal del sur
-#EXTVLCOPT:network-caching=1000
-https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, America TV
 #EXTVLCOPT:network-caching=1000
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1, RT ESP
-#EXTVLCOPT:network-caching=1000
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1, Cosmos TV
 #EXTVLCOPT:network-caching=1000
 https://canaletaplus.com:3922/hybrid/play.m3u8
-#EXTINF:-1 group-title="TV ABIERTA", POPCORN CENTRAL 6.4
-https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", RS RT 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1, Metro TV
@@ -193,27 +203,15 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1, Milenio TV
 #EXTVLCOPT:network-caching=1000
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
-#EXTINF:-1, AXN
-#EXTVLCOPT:network-caching=1000
-http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1, Clan
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-#EXTINF:-1, Disney
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dn/index.m3u8
-#EXTINF:-1, History
-#EXTVLCOPT:network-caching=1000
-http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1, Red America
 #EXTVLCOPT:network-caching=1000
 https://edge.enhdtv.com/redamerica/index.m3u8
-#EXTINF:-1, STAR_CHANNEL
+#EXTINF:-1, America's Got Talent
 #EXTVLCOPT:network-caching=1000
-http://45.162.193.35/STAR_CHANNEL/index.m3u8
-#EXTINF:-1, STUDIO-UNIVERSAL
+https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
+#EXTINF:-1, America's Got Talent 2
 #EXTVLCOPT:network-caching=1000
-http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1, UNIVERSAL-CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
