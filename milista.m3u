@@ -66,6 +66,9 @@ https://paneltv.stream:19360/chilevisual/chilevisual.m3u8?PlaylistM3UCL
 #EXTINF:-1, Canal del sur
 #EXTVLCOPT:network-caching=1000
 https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, TV Quellon
+#EXTVLCOPT:network-caching=1000
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1, Camara de Diputados | CL
 #EXTVLCOPT:network-caching=1000
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
@@ -84,6 +87,9 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1, AlbKanale Music TV
 #EXTVLCOPT:network-caching=1000
 https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1, CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://138.186.23.7:8082/CINECANAL/index.m3u8
 #EXTINF:-1, STAR_CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
@@ -209,3 +215,60 @@ https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
 #EXTINF:-1, America's Got Talent 2
 #EXTVLCOPT:network-caching=1000
 https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+#EXTINF:-1, Cine D
+#EXTVLCOPT:network-caching=1000
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1, Canal + Cinemas
+#EXTVLCOPT:network-caching=1000
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1, Cine amor
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+#EXTINF:-1, Cine aventura
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+#EXTINF:-1, Cine en español
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:-1, Cine estrella
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+#EXTINF:-1, Cine terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:-1, Todo cine
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+#EXTINF:-1, TV Latina
+#EXTVLCOPT:network-caching=1000
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1, Folklore tv
+#EXTVLCOPT:network-caching=1000
+https://play.folkloretv.pe/StreamSD/index.m3u8
+#EXTINF:-1, imagen universal tv
+#EXTVLCOPT:network-caching=1000
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1, Infinita TV
+#EXTVLCOPT:network-caching=1000
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1, Inter TV
+#EXTVLCOPT:network-caching=1000
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1, Ivasiva TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3
+#EXTINF:-1, Canal 5
+#EXTVLCOPT:network-caching=1000
+http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:-1, Canal 5
+#EXTVLCOPT:network-caching=1000
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1, CHD
+#EXTVLCOPT:network-caching=1000
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+#EXTINF:-1, canal del sol
+#EXTVLCOPT:network-caching=1000
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1, +TV
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
