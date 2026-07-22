@@ -1,10 +1,9 @@
 #EXTM3U
-
-#EXTINF:22,TVN
+#EXTINF:22,TVN HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
-#EXTINF:22,TVN 24 horas
+#EXTINF:42,TVN 24 horas
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
@@ -80,6 +79,10 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Mi radio TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
 #EXTINF:24, America TV chile
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -115,7 +118,7 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:33, Raices arabes
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
-https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
+https://v4.tustreaming.cl/tendenciastv/index.m3u8
 #EXTINF:33, Palestina
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -124,12 +127,17 @@ https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:47, Now news
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 #EXTINF:36, Rakuten TV ScyFy
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
 #EXTINF:62, BUM TV
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:21, Golden
 #EXTVLCOPT:network-caching=1000
@@ -210,10 +218,6 @@ https://stream.haislin.com/entelevision/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:11,Cine Premium HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-#http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:160, Cine 35mm
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -242,6 +246,10 @@ https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
+#EXTINF:22,NICK LATAM-HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.186.23.7:8082/NICK/index.m3u8
 #EXTINF:20,STAR HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -292,7 +300,6 @@ http://45.162.193.35/AMC/index.m3u8
 http://45.162.193.35/NATGEO/index.m3u8
 #EXTINF:36, RS RT 
 #EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0, AlbKanale Music TV
 #EXTVLCOPT:network-caching=1000
@@ -314,7 +321,7 @@ https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-#EXTINF:0, Adrenalina pura TV
+#EXTINF:25, Adrenalina pura TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
@@ -334,10 +341,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:20, Clan
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:0, America's Got Talent
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -346,6 +349,34 @@ https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+#EXTINF:92, Inter TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:54, Ideas
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:24, Master TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
+#EXTINF:0, Historia
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:100, France 24
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:24, Milenio TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:20, Clan
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:0, Cine D
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -386,15 +417,11 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://play.folkloretv.pe/StreamSD/index.m3u8
-#EXTINF:0, Inter TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:24, Ivasiva TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3
-#EXTINF:20, Canal 5
+#EXTINF:24, Canal 5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://45.181.87.106/CANAL5HD/index.m3u8
@@ -406,7 +433,7 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-#EXTINF:0, canal del sol
+#EXTINF:32, canal del sol
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
@@ -422,7 +449,7 @@ https://tv.arkeo.cl:19360/8158/8158.m3u8?PlaylistM3UCL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Enfoque Digital TV
+#EXTINF:29, Enfoque Digital TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
@@ -470,10 +497,6 @@ https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
-#EXTINF:23, Milenio TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:64, Austral TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -482,7 +505,7 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
-#EXTINF:23, NexTV 
+#EXTINF:28, NexTV 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://edge.enhdtv.com/nexthd/index.m3u8
@@ -490,3 +513,163 @@ https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:0, Fox
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:22, Gamavison
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:0, HI VIDA !!!
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida/distro-cgtn-hivida.m3u8?ads.vf=Pe0Z6YyAyya
+#EXTINF:0, Historias de ultratumba
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:16, Huacho
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://tv.huachotv.com/stream.m3u8
+#EXTINF:0, Impact tv dance
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:60, Jupiter TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8
+#EXTINF:0, Jupiter La melinka
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://v1.tustreaming.cl/melinkana/index.m3u8
+#EXTINF:0, Larivision
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cloud5.larivision.net/hls/live.m3u8
+#EXTINF:0, Las estrellas
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0, Mas adrenalina
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
+#EXTINF:0, Maxima TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://maximatv.net/hls/stream.m3u8
+#EXTINF:23,MCM TOP
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:0, Mister Bean
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:0, MTV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+#EXTINF:0, MTV ridiculos
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
+#EXTINF:0, Canal 6 -  mexico
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0, Number 1 dance
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:0, Panico
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:39, Planeta
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:10, Plus TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:60, Pop corn central
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:0, Pride
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:36, Rakuten Top movies
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:30, Retro plus 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:24, Retrox TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+#EXTINF:24, RN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:86, Sai TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://account31.livebox.co.in/saitvhls/live.m3u8
+#EXTINF:24, SciFi
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:0, Sony Andes
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.186.23.7:8082/SONYCHANNEL/index.m3u8
+#EXTINF:0, STVE basica
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:0, Super canal
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
+#EXTINF:0, Super canal 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
+#EXTINF:0, TDT Multimedia
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:0, Telecanal 12
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
+#EXTINF:0, Telecanal 28
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+#EXTINF:0, Telefe buenos aires
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:0, Tele hit
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://177.234.249.135:8888/Telehit/index.m3u8
+#EXTINF:0, Total music dance
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0, 80
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
