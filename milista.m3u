@@ -705,3 +705,7 @@ https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsung
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://45.162.193.35/ZONALATINA/index.m3u8
+#EXTINF:0, NDTV India
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn-2.pishow.tv/live/226/master.m3u8
