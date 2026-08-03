@@ -673,3 +673,35 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0, Unica TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
+#EXTINF:0, Unicentro
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
+#EXTINF:0, Unifranz
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://edge.enhdtv.com/8192/index.m3u8
+#EXTINF:0, FILMS&ARTS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:0, Disney
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
+#EXTINF:0, Vevo 80
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:0, Vevo pop
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:0, Zona latina
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://45.162.193.35/ZONALATINA/index.m3u8
