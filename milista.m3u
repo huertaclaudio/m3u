@@ -8,7 +8,11 @@ https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:42,TVN 24 horas
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:42,TV Chile
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:32, Chilevision
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -33,6 +37,10 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://45.170.130.224:8000/play/a025/index.m3u8
+#EXTINF:0, Trece C
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:11, Zona Latina
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -731,3 +739,31 @@ https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:0, 24h
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0, El pais
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
+#EXTINF:0, Venus media
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:0, RTL disco
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:0, Retro magico
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
+#EXTINF:0, America TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:0, Los angeles local TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
