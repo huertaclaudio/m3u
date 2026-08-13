@@ -42,6 +42,10 @@ http://45.170.130.224:8000/play/a00x/index.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:15, NTV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:15, U Chile TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
