@@ -781,3 +781,125 @@ https://live.gideo.video/americateve2/master.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:99, AXN
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:99, Disney princesa
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:99, Disney Jr
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:99, FX
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:99, A&E
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:99, NICK JR
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://177.234.249.178:8888/NICK-JR/index.m3u8
+#EXTINF:99, Disney
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:99, Disney JR
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:99, Star
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://streamer.metronethn.com/StarChannel/index.m3u8
+#EXTINF:99, LTV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+#EXTINF:99, Disneys
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:99, AXN
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:99, History
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:99, VEVO
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:99, Star
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://streamer.metronethn.com/StarChannel/index.m3u8
+#EXTINF:99, FX
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:99, FS Premium
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://177.234.249.178:8888/GOLTV/index.m3u8
+#EXTINF:99, FS History 2
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:99, E!
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:99, FX
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:99, Latina
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://190.93.224.42/LATINA/index.m3u8
+#EXTINF:99, Siembra TV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:99, Telecentro
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:99, Telesur
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:99, TVM
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:99, TV briks
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+#EXTINF:99, Bein sports
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://201.190.41.246:9060/play/a03y/index.m3u8
+#EXTINF:99, Starz
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://168.228.44.241:9998/play/a0e1/index.m3u8
+#EXTINF:99, Euro indie Music
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:99, Metro TV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+
