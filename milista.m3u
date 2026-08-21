@@ -905,7 +905,7 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:0, Telemundo internacional
+#EXTINF:-1, Telemundo internacional
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
@@ -933,7 +933,7 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
-#EXTINF:0, De pelicula TV
+#EXTINF:-1, De pelicula TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
