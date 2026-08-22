@@ -961,3 +961,11 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:0, Persiana Music
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:0, Number 1 Dance
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8
