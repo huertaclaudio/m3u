@@ -937,3 +937,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
+#EXTINF:-1, Ruidos TV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8?hls_ctx=g63p79p0
