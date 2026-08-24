@@ -941,31 +941,139 @@ https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8?hls_ctx=g63p79p0
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/chunklist_w977716959.m3u8
-#EXTINF:0, DanceTV house
+#EXTINF:-1, DanceTV house
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
-#EXTINF:0, DanceTV deep house
+#EXTINF:-1, DanceTV deep house
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:0, DanceTV best
+#EXTINF:-1, DanceTV best
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:0, DanceTV Algorithm
+#EXTINF:-1, DanceTV Algorithm
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:0, DanceTV EDM Mainstage
+#EXTINF:-1, DanceTV EDM Mainstage
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:0, Persiana Music
+#EXTINF:-1, Persiana Music
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:0, Number 1 Dance
+#EXTINF:-1, Number 1 Dance
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8
+#EXTINF:-1, Baby first
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0sw
+#EXTINF:-1, History
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0st
+#EXTINF:-1, ATV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0sp
+#EXTINF:-1, Investigation Discovery
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0sl
+#EXTINF:-1, Capital
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0sj
+#EXTINF:-1, CityTV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0si
+#EXTINF:-1, Mega
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0r1
+#EXTINF:-1, Chilevision
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0r0
+#EXTINF:-1, HBO
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qd
+#EXTINF:-1, HBO Xtreme
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qy
+#EXTINF:-1, DHE
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qv
+#EXTINF:-1, Las Estrellas
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qu
+#EXTINF:-1, 24 horas
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qr
+#EXTINF:-1, Hola TV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pw
+#EXTINF:-1, NatGeo
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pt
+#EXTINF:-1, Canes
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pp
+#EXTINF:-1, Animal planet
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0po
+#EXTINF:-1, Lifetime
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pi
+#EXTINF:-1, HGTV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pf
+#EXTINF:-1, Discovery Science
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pb
+#EXTINF:-1, Discovery World
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0n8
+#EXTINF:-1, Disney +
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0p7
+#EXTINF:-1, CNN español
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0p3
+#EXTINF:-1, MTV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0nc
+#EXTINF:-1, Comedy Central
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:-1, A&E
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0mt
+#EXTINF:-1, Sport Vivo
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.8.199:8000/play/a0b0/index.m3u8
