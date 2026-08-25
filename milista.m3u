@@ -73,7 +73,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:0, LA RED
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
-http://45.162.193.35/LA_RED/index.m3u8
+http://181.78.79.131:8000/play/a0qq
 #EXTINF:20, Art TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
@@ -1077,3 +1077,39 @@ http://181.78.79.131:8000/play/a0mt
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://181.78.8.199:8000/play/a0b0/index.m3u8
+#EXTINF:-1, Space
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0q2
+#EXTINF:-1, ESPN premium
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0r2
+#EXTINF:-1, Sun Channel
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qz
+#EXTINF:-1, Sun Channel
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0t3
+#EXTINF:-1, TNT Sport premium
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0q9
+#EXTINF:-1, Toon cast
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pe
+#EXTINF:-1, Warner TV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0sz
+#EXTINF:-1, Zoom TV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0sg
+#EXTINF:-1, Beetme
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.8.199:8000/play/a0ga/index.m3u8
