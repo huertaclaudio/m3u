@@ -1,4 +1,148 @@
 #EXTM3U
+#EXTINF:-1, Star Channel (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1, Alternativa TV (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
+#EXTINF:-1, VB Media TV (1080p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1, TV Mar La Paz (1080p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1, TV Lobo Durango (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1, Popcorn Central (1080p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1, El Chavo TV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1, E! Entertairment HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1, bitMe (1080p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.8.199:8000/play/a0al/index.m3u8
+#EXTINF:-1, Warner TV HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pz
+#EXTINF:-1, UNIVERSAL CHANNEL HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0mw
+#EXTINF:-1, Tooncast
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pe
+#EXTINF:-1, TNT Sports Premium SD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0q9
+#EXTINF:-1, Sun Channel HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qz
+#EXTINF:-1, Space HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0q2
+#EXTINF:-1, Nickelodeon HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qm
+#EXTINF:-1, Nat Geo HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pt
+#EXTINF:-1, Lifetime
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pi
+#EXTINF:-1, Las Estrellas HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qu
+#EXTINF:-1, HOLA TV HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pw
+#EXTINF:-1, HGTV
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pf
+#EXTINF:-1, HBO Xtreme HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qy
+#EXTINF:-1, Espn Premium
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0r2
+#EXTINF:-1, Discovery World HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0n8
+#EXTINF:-1, Discovery Science
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pb
+#EXTINF:-1, DHE HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qv
+#EXTINF:-1, Comedy Central HD
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:-1, Cinecanal
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pp
+#EXTINF:-1, CNN Espanol
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0p3
+#EXTINF:-1, Animal Planet
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0po
+#EXTINF:-1, Adult Swim
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pk
+#EXTINF:-1, A&E
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0mt
+#EXTINF:-1, AXN
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0q0
+#EXTINF:-1, La Red
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0qq
+#EXTINF:-1, 13c
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://181.78.79.131:8000/play/a0pm
 #EXTINF:22,TVN HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
@@ -304,7 +448,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m
 #EXTINF:0, A&E
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
-http://138.121.15.230:9002/A&E/index.m3u8
+http://181.78.8.199:8000/play/a0al/index.m3u8
 #EXTINF:0, COMEDY CENTRAL
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
