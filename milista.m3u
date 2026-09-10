@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:00, Disney
+#EXTINF:-1, Xtrema Cartoons
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1, WTV Nicaragua
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1, Disney
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
