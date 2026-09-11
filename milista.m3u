@@ -3,14 +3,10 @@
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1, WTV Nicaragua
-#EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:network-caching=3333
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1, Disney
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1,FX HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
@@ -35,22 +31,6 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
-#EXTINF:-1, Alternativa TV (720p)
-#EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:network-caching=3333
-https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-#EXTINF:-1, VB Media TV (1080p)
-#EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:network-caching=3333
-https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1, TV Mar La Paz (1080p)
-#EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:network-caching=3333
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1, TV Lobo Durango (720p)
-#EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:network-caching=3333
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1, Popcorn Central (1080p)
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
@@ -1261,3 +1241,23 @@ http://181.78.79.131:8000/play/a0sg
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://181.78.8.199:8000/play/a0ga/index.m3u8
+#EXTINF:-1, WTV Nicaragua
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1, Alternativa TV (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
+#EXTINF:-1, VB Media TV (1080p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1, TV Mar La Paz (1080p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1, TV Lobo Durango (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
