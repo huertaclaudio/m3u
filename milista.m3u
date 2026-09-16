@@ -159,74 +159,75 @@ http://181.78.79.131:8000/play/a0qq
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://181.78.79.131:8000/play/a0pm
-#EXTINF:22,TVN HD
+#EXTINF:-1,TVN HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
-#EXTINF:42, 24 horas [CL]
+#EXTINF:-1, 24 horas [CL]
+#EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:75,TVN 24 horas
+#EXTINF:-1,TVN 24 horas
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-#EXTINF:0,TV Chile
+#EXTINF:-1,TV Chile
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:32, Chilevision
+#EXTINF:-1, Chilevision
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:102, Canal 13
+#EXTINF:-1, Canal 13
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:60, Tele 13 en vivo
+#EXTINF:-1, Tele 13 en vivo
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://redirector.dps.live/hls/t13/playlist.m3u8
-#EXTINF:15, Mega
+#EXTINF:-1, Mega
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:11,ViaX
+#EXTINF:-1,ViaX
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://45.170.130.224:8000/play/a025/index.m3u8
-#EXTINF:11, Zona Latina
+#EXTINF:-1, Zona Latina
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 http://45.170.130.224:8000/play/a00x/index.m3u8
-#EXTINF:15, CNN Chile
+#EXTINF:-1, CNN Chile
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
-#EXTINF:15, NTV
+#EXTINF:-1, NTV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-#EXTINF:15, U Chile TV
+#EXTINF:-1, U Chile TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:15, TURNO
+#EXTINF:-1, TURNO
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://redirector.dps.live/hls/turno/playlist.m3u8
-#EXTINF:20, TEVEX
+#EXTINF:-1, TEVEX
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
-#EXTINF:30, TV+
+#EXTINF:-1, TV+
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:100, Trece C
+#EXTINF:-1, Trece C
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:100, TVN3
+#EXTINF:-1, TVN3
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
