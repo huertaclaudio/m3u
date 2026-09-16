@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:40, Rakuten TV ScyFy
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:65, Cine Friki
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1, Cine familiar
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:network-caching=3333
+http://177.234.218.66:8084/play/a001/index.m3u8
 #EXTINF:-1, Xtrema Cartoons
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
@@ -310,10 +322,6 @@ https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:40, Rakuten TV ScyFy
-#EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:network-caching=3333
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
 #EXTINF:59, BUM TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
@@ -373,10 +381,6 @@ https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
 https://edge.enhdtv.com/redamerica/index.m3u8
-#EXTINF:65, Cine Friki
-#EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:network-caching=3333
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:24, 36TV HUACHO
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:network-caching=3333
